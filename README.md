@@ -1,4 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=FrontEndDev%20Nam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Beom1103🎨&fontSize=70)
+
+<div align=center>
+
+## 🌹 t e c h 🌹
+
+![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![scss](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
+![React Router](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
+
+<br>
+
+<br>
+
+## 💫 m e 
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://gogot1103.tistory.com/)  [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.gogot1103@naver.com)
+<br><br><br>
+
+
+</div>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beom1103&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
