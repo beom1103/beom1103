@@ -2,6 +2,18 @@
 
 <div align=center>
 
+:wave: Hello My name is gibeom, Front End Enginner education at Elice 
+
+
+### :purple_heart: Career
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2016. 3 ~ 2022. 3 | Department of Biological Environment, Animal Assisted Therapy | **Wonkwang University** |
+| **:mortar_board: Education** | 2021. 9 ~ 2022. 3 | Elice AI track, 3 | **Elice** |
+
+  
+  
 ## 🌹 t e c h 🌹
 
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
