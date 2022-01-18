@@ -11,7 +11,6 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2016. 3 ~ 2022. 3 | Department of Biological Environment, Animal Assisted Therapy | **Wonkwang University** |
 | **:mortar_board: Education** | 2021. 9 ~ 2022. 3 | Elice AI track, 3 | **Elice** |
-
   
   
 ## 🌹 t e c h 🌹
