@@ -19,9 +19,9 @@
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://gogot1103.tistory.com/)  [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.gogot1103@naver.com)
 <br><br><br>
 
+## status
 
 </div>
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beom1103&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beom1103&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
