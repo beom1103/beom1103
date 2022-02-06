@@ -27,7 +27,7 @@
 <br>
 
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://gogot1103.tistory.com/)  [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.gogot1103@naver.com)
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://fern-emu-e54.notion.site/Portfolio-1e8f21337c2843159618170628be5da2)  [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.gogot1103@naver.com)
 <br><br><br>
 
 ## status
