@@ -22,6 +22,8 @@
 ![scss](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![React Router](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
+![Node.js](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
+![MySql](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
 
 <br>
 
